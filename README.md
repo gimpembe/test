@@ -21,6 +21,14 @@
               <pubDate>Thu, 22 Jan 2026 05:27:00 GMT</pubDate>
               <description>Power Automateが新しい項目を検知するためのテストです。</description>
             </item>
+            
+            <item>
+              <title>新しいテスト項目 - 2026年1月22日 15:35 (Test)</title>
+              <link>https://example.com/test_item_20260122_1535</link>
+              <guid>https://example.com/test_item_20260122_1535</guid>
+              <pubDate>Thu, 22 Jan 2026 06:35:00 GMT</pubDate>
+              <description>Power Automateが新しい項目を検知するためのテストです。</description>
+            </item
                   
           </channel>
         </rss>
